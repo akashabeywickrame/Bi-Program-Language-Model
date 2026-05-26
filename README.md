@@ -1,5 +1,4 @@
-﻿# Bi-Program-Language-Model
-# Bigram Language Model for Language Identification
+﻿# Bigram Language Model for Language Identification
 
 ## Overview
 
